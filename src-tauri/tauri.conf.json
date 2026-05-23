@@ -18,7 +18,8 @@
         "resizable": true,
         "alwaysOnTop": true,
         "decorations": false,
-        "transparent": false
+        "transparent": false,
+        "dragDropEnabled": true
       }
     ],
     "security": {
