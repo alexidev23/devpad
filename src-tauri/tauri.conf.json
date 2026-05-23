@@ -12,12 +12,13 @@
   "app": {
     "windows": [
       {
-        "title": "devpad",
+        "title": "DevPad",
         "width": 420,
         "height": 600,
+        "resizable": true,
         "alwaysOnTop": true,
-        "transparent": true,
-        "resizable": true
+        "decorations": false,
+        "transparent": false
       }
     ],
     "security": {
